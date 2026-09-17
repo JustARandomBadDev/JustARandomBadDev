@@ -62,8 +62,3 @@ A complete network infrastructure designed and deployed for a holiday campsite.
 * Exploring GPU computing and CUDA
 * Continuing the development of my operating system
 * Cleaning and documenting my existing projects
-
-## Contact
-
-* GitHub: [@JustARandomBadDev](https://github.com/JustARandomBadDev)
-* LinkedIn: **add your LinkedIn URL here**
