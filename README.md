@@ -103,25 +103,6 @@ This project is interesting to me because it is not a lab-only setup: it combine
 
 ---
 
-### [crowd-beats-api](https://github.com/JustARandomBadDev/crowd-beats-api)
-
-Concurrent backend for a collaborative music queue.
-
-- transactional PostgreSQL domain model
-- database-enforced invariants
-- concurrent voting and queue operations
-- REST + WebSocket synchronization
-- bounded clients and backpressure handling
-- Spotify API integration
-- unit, race and integration tests
-- Docker and GitHub Actions
-
-This project is less performance-oriented than my C++ work, but it demonstrates my approach to **concurrency, correctness, testing and production-style architecture**.
-
-**Tech:** Go · PostgreSQL · WebSocket · Docker
-
----
-
 ## Other low-level work
 
 ### [sOS](https://github.com/JustARandomBadDev/sOS)
